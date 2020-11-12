@@ -61,7 +61,7 @@
     #welcome-section {
         padding: 45vh 0;
         text-align: center;
-        background-image: url(/image/mountains-landscape-dark-nature-4k-i0.jpg);
+        background-image: url(./assets/mountains-landscape-dark-nature-4k-i0.jpg);
         background-size: cover;
     }
     /* The typing effect */
@@ -346,12 +346,12 @@
     }
     
     #projects {
-        background-image: url(/image/dark-night-landscape-artistic-7v.jpg);
+        background-image: url(./assets/dark-night-landscape-artistic-7v.jpg);
         background-size: cover;
     }
     
     .contact-background {
-        background-image: url(/image/mountains-55067__340.png);
+        background-image: url(./assets/mountains-55067__340.png);
         background-size: cover;
     }
     /* social links */
